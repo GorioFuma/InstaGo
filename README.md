@@ -4,8 +4,8 @@
 ## [Donations](https://www.paypal.com/paypalme/GorioFuma)
 ## Prerequisites
 ### The program only run on Windows 10/11
-[Python](https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe)
-[Git](https://git-scm.com/download/win)
+- [Python](https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe)
+- [Git](https://git-scm.com/download/win)
 ## Installation and Run
 ```bash
 git clone https://github.com/GorioFuma/InstaGo
