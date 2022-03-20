@@ -2,6 +2,9 @@
 ## InstaGo v0.0 github.com/GorioFuma/InstaGo
 ## IG: [GorioFuma](instagram.com/GorioFuma) [instagram.com/GorioFuma](instagram.com/GorioFuma)
 ## [Donations](https://www.paypal.com/paypalme/GorioFuma)
+
+![Instascreen](https://user-images.githubusercontent.com/100670303/159164904-32b13957-6297-43af-b4ae-8fee0b901e17.png)
+
 ## Prerequisites
 ### The program only run on Windows 10/11
 - [Python](https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe)
