@@ -1,0 +1,7 @@
+selenium
+keyboard
+threaded
+termcolor
+ctypes-callable
+getpass4
+webdriver-manager
