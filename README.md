@@ -4,22 +4,22 @@
 ## [Donations](https://www.paypal.com/paypalme/GorioFuma)
 ## Prerequisites
 ### The program only run on Windows 10/11
-'''bash
+```bash
 [Python](https://www.python.org/ftp/python/3.10.3/python-3.10.3-amd64.exe)
 [Git](https://git-scm.com/download/win)
-'''
+```
 ## Installation and Run
-'''bash
+```bash
 git clone https://github.com/GorioFuma/InstaGo
 cd InstaGo
 pip install -r requirements.txt
 python InstaGo.py
-'''
+```
 ## Run
-'''bash
+```bash
 cd InstaGo
 python InstaGo.py
-'''
+```
 ## Usage
 First of all you must login by pressing 1 and clicking enter. Then you'll be able to use all the functions of the program:
   
