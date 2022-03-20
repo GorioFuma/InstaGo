@@ -31,6 +31,6 @@ First of all you must login by pressing 1 and clicking enter. Then you'll be abl
   - Function 6: Open instagram.com (this function is in beta, probabily dosn't work);
   - Function 7: This function unfollows all your following (beta, probabily if you use this you will be banned);
   - Function 8: Logout in instagram.com;
-  - Function 9: Exit from the InstaGo;
+  - Function 9: Exit from the InstaGo.
 ## Reports
-If you find bugs or you have some problems please contact me on [instagram](instagram.com/GorioFuma) 
+Please contact me on [instagram](instagram.com/GorioFuma) if you find bugs or you have some problems.
