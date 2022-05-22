@@ -33,4 +33,4 @@ First of all you must login by pressing 1 and clicking enter. Then you'll be abl
   - Function 8: Logout in instagram.com;
   - Function 9: Exit from the InstaGo.
 ## Reports
-Please contact me on [instagram](instagram.com/GorioFuma) if you find bugs or you have some problems.
+Please contact me on [instagram](https://instagram.com/GorioFuma) if you find bugs or you have some problems.
